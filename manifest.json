@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "Terra Clubes",
+	"description": "Extensão para ler as últimas notícias do Terra sobre clubes do brasileirão",
+	"version": "1.7.6",
+    "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
+	"permissions": ["http://esportes.terra.com.br/", "storage"],
+	"background": { "scripts": ["background.js"] },	
+	"browser_action": {
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+	}
+}

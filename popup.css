@@ -1,0 +1,56 @@
+body { min-width: 600px; overflow-x: hidden; font-family: sans-serif; overflow: auto;}
+img { margin: 8px 12px 8px 0px; border: 1px solid #CFCFCF; vertical-align: middle; width: 80px; height: 80px; float: left; }
+h2 { margin: 5px; }
+iframe { position: absolute; width: 600px; height: 106px; border-width: 0px; padding: 0px; overflow-x: hidden; overflow-y: hidden; }
+
+::-webkit-scrollbar {
+    width: 4px;
+}
+::-webkit-scrollbar-button { height: 0px;}
+
+::-webkit-scrollbar-track-piece {
+	-webkit-border-radius: 10px;
+    background: #EFEFEF;
+	width: 1px;
+}
+::-webkit-scrollbar-thumb {
+	-webkit-border-radius: 10px;
+    background: #F90;
+	width: 10px;
+}
+
+a { display: block; color:#47423A; text-decoration:none; } 
+a:link, a:link .title{ color: #47423A; background-color:#FFF; }
+a:visited, a:visited .title, a:visited .inner_news .ttl-desc{ color:#AAA; }
+a:hover, a:hover .inner_news .ttl-desc{ color:#FA0; }
+a:hover .title{ color:#FA0; text-decoration: underline; }
+
+div .news{ width: 600px; margin: 1px 8px; padding: 12px 0px 12px 0px; border-bottom: 1px solid #CCC; vertical-align: middle; display: inline-block; }
+div .inner_news { padding: 5px; margin-bottom: -20px; }
+span.ttl-news { font-weight: bold; }
+span.ttl-desc { font-size: 12px; color:#69645C; text-decoration: none; }
+span.pubdate { font-size: 10px; font-style: italic; float: right; color:#CCC; }
+span.guide-ttl{ font-size: 12px; }
+
+#live-esp-futb{ background-color: #EFEFEF; overflow: hidden; margin-top: 7px; }
+.ticker-title { padding: 2px; margin: 0px 0px 18px 4px;} 
+.ruler { width: 600px;  height: 94px; margin-top: -20px; height: 72px; }
+.list_game { list-style: none; float: left; width: 160px; height: 76px; border: 2px solid #FED; margin-right: 5px; }
+.list_game .details{ float: left; display: inline; margin-bottom: 5px; padding-left: 16px; }
+.result { float: left; padding-top: 4px; margin-right: 1px; }
+p.championship { margin-bottom: 7px; margin-top: 0px; padding: 2px; font-size: 13px;}
+p.status { padding: 2px; margin-top: 12px; font-size: 11px;}
+
+.ticker-shield { width:24px; height:24px; margin: 0 10px 0 10px; border: none; }
+.selected-team{ background-color: #FA0;}
+
+.next, .prev { float:left; cursor: pointer; padding: 0px 2px 2px 2px; font-size: 13px; background-color: #ff9900; color: #fff; margin: 2px 0px 4px 6px;}
+
+.standings { width: 290px; }
+.sports-shield { width:19px; height:19px; margin: 0; padding: 0; border: 0;}
+.widget-container { border-bottom: 1px solid #CCC; border-top: 1px solid #CCC; font-size: 12px; margin-top: 50px; height: 234px; }
+#widgetClassificacao { max-width: 290px; float: left; }
+#widgetJogos { max-width: 290px; float: right; }
+.more a { color: #FF9900; font-weight: bold; padding: 0px 8px 12px 0px; line-height: 1.1em; }
+
+.header { padding-bottom: 13px; line-height: 24px; font-family: "KlavikaRegular"; font-size: 24px; font-weight: normal; }

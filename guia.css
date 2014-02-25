@@ -1,0 +1,74 @@
+
+#sports-clubs-guide span,
+#sports-clubs-guide ul,
+#sports-clubs-guide ul li { float:left; display:inline; margin-top: 1px; margin-bottom: 0px; padding: 2px; }
+#sports-clubs-guide ul { width: 620px; }
+#sports-clubs-guide .clubs-shields { clear:both; }
+
+#sports-clubs-guide.smaller-shields .clubs-shields { clear:none; margin-top:3px; }
+#sports-clubs-guide.smaller-shields .clubs-shields li { margin-left: 1px; }
+#sports-clubs-guide.smaller-shields .clubs-shields li:first-child { margin:0; }
+#sports-clubs-guide.smaller-shields .clubs-shields li,
+#sports-clubs-guide.smaller-shields .clubs-shields li a { width:26px; height:26px; }
+
+#sports-clubs-guide.smaller-shields .p01 { background-position:0 -26px; }
+#sports-clubs-guide.smaller-shields .p01:focus,
+#sports-clubs-guide.smaller-shields .p01:hover { background-position:-26px -26px; }
+#sports-clubs-guide.smaller-shields .p02 { background-position:0 -52px; }
+#sports-clubs-guide.smaller-shields .p02:focus,
+#sports-clubs-guide.smaller-shields .p02:hover { background-position:-26px -52px; }
+#sports-clubs-guide.smaller-shields .p03 { background-position:0 -78px; }
+#sports-clubs-guide.smaller-shields .p03:focus,
+#sports-clubs-guide.smaller-shields .p03:hover { background-position:-26px -78px; }
+#sports-clubs-guide.smaller-shields .p04 { background-position:0 -104px; }
+#sports-clubs-guide.smaller-shields .p04:focus,
+#sports-clubs-guide.smaller-shields .p04:hover { background-position:-26px -104px; }
+#sports-clubs-guide.smaller-shields .p05 { background-position:0 -130px; }
+#sports-clubs-guide.smaller-shields .p05:focus,
+#sports-clubs-guide.smaller-shields .p05:hover { background-position:-26px -130px; }
+#sports-clubs-guide.smaller-shields .p06 { background-position:0 -156px; }
+#sports-clubs-guide.smaller-shields .p06:focus,
+#sports-clubs-guide.smaller-shields .p06:hover { background-position:-26px -156px; }
+#sports-clubs-guide.smaller-shields .p07 { background-position:0 -182px; }
+#sports-clubs-guide.smaller-shields .p07:focus,
+#sports-clubs-guide.smaller-shields .p07:hover { background-position:-26px -182px; }
+#sports-clubs-guide.smaller-shields .p08 { background-position:0 -208px; }
+#sports-clubs-guide.smaller-shields .p08:focus,
+#sports-clubs-guide.smaller-shields .p08:hover { background-position:-26px -208px; }
+#sports-clubs-guide.smaller-shields .p09 { background-position:0 -234px; }
+#sports-clubs-guide.smaller-shields .p09:focus,
+#sports-clubs-guide.smaller-shields .p09:hover { background-position:-26px -234px; }
+#sports-clubs-guide.smaller-shields .p10 { background-position:0 -260px; }
+#sports-clubs-guide.smaller-shields .p10:focus,
+#sports-clubs-guide.smaller-shields .p10:hover { background-position:-26px -260px; }
+#sports-clubs-guide.smaller-shields .p11 { background-position:0 -286px; }
+#sports-clubs-guide.smaller-shields .p11:focus,
+#sports-clubs-guide.smaller-shields .p11:hover { background-position:-26px -286px; }
+#sports-clubs-guide.smaller-shields .p12 { background-position:0 -312px; }
+#sports-clubs-guide.smaller-shields .p12:focus,
+#sports-clubs-guide.smaller-shields .p12:hover { background-position:-26px -312px; }
+#sports-clubs-guide.smaller-shields .p13 { background-position:0 -338px; }
+#sports-clubs-guide.smaller-shields .p13:focus,
+#sports-clubs-guide.smaller-shields .p13:hover { background-position:-26px -338px; }
+#sports-clubs-guide.smaller-shields .p14 { background-position:0 -364px; }
+#sports-clubs-guide.smaller-shields .p14:focus,
+#sports-clubs-guide.smaller-shields .p14:hover { background-position:-26px -364px; }
+#sports-clubs-guide.smaller-shields .p15 { background-position:0 -390px; }
+#sports-clubs-guide.smaller-shields .p15:focus,
+#sports-clubs-guide.smaller-shields .p15:hover { background-position:-26px -390px; }
+#sports-clubs-guide.smaller-shields .p16 { background-position:0 -416px; }
+#sports-clubs-guide.smaller-shields .p16:focus,
+#sports-clubs-guide.smaller-shields .p16:hover { background-position:-26px -416px; }
+#sports-clubs-guide.smaller-shields .p17 { background-position:0 -442px; }
+#sports-clubs-guide.smaller-shields .p17:focus,
+#sports-clubs-guide.smaller-shields .p17:hover { background-position:-26px -442px; }
+#sports-clubs-guide.smaller-shields .p18 { background-position:0 -468px; }
+#sports-clubs-guide.smaller-shields .p18:focus,
+#sports-clubs-guide.smaller-shields .p18:hover { background-position:-26px -468px; }
+#sports-clubs-guide.smaller-shields .p19 { background-position:0 -494px; }
+#sports-clubs-guide.smaller-shields .p19:focus,
+#sports-clubs-guide.smaller-shields .p19:hover { background-position:-26px -494px; }
+#sports-clubs-guide.smaller-shields .p20 { background-position:0 -520px; }
+#sports-clubs-guide.smaller-shields .p20:focus,
+#sports-clubs-guide.smaller-shields .p20:hover { background-position:-26px -520px; }
+
